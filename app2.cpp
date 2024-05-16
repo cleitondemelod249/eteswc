@@ -103,6 +103,6 @@ int menuReportar() {
 	switch(opcao) {
 		case 4: 
 			menuPrincipal();
-	}
+	} 
 }
 
